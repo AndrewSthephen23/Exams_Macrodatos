@@ -1,0 +1,12 @@
+LH,Baja	Promedio_Energia=0.168220,Total_Eventos=2
+LH,Media	Promedio_Energia=1.033644,Total_Eventos=5
+ST,Baja	Promedio_Energia=0.012142,Total_Eventos=1
+TO,Alta	Promedio_Energia=0.002730,Total_Eventos=21
+TO,Baja	Promedio_Energia=0.016217,Total_Eventos=2
+TO,Media	Promedio_Energia=0.003481,Total_Eventos=34
+VD,Alta	Promedio_Energia=0.000217,Total_Eventos=9
+VD,Baja	Promedio_Energia=0.000165,Total_Eventos=5
+VD,Media	Promedio_Energia=0.000598,Total_Eventos=48
+VT,Alta	Promedio_Energia=0.000669,Total_Eventos=357
+VT,Baja	Promedio_Energia=0.000239,Total_Eventos=457
+VT,Media	Promedio_Energia=0.003360,Total_Eventos=2177

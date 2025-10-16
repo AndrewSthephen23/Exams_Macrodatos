@@ -1,0 +1,10 @@
+LH	N=7,P(clase)=7.0000,Media_Freq=3.43,Std_Freq=0.76,Media_Dur=1819.57,Std_Dur=899.57,Media_Energ=0.786380,Std_Energ=1.499486
+LH_Reglas	Si Frecuencia cerca de 3.43 y Duracion cerca de 1819.57 entonces probablemente es LH
+ST	N=1,P(clase)=1.0000,Media_Freq=2.90,Std_Freq=0.00,Media_Dur=179.81,Std_Dur=0.00,Media_Energ=0.012142,Std_Energ=0.000000
+ST_Reglas	Si Frecuencia cerca de 2.90 y Duracion cerca de 179.81 entonces probablemente es ST
+TO	N=57,P(clase)=57.0000,Media_Freq=5.75,Std_Freq=2.06,Media_Dur=92.64,Std_Dur=43.65,Media_Energ=0.003651,Std_Energ=0.004755
+TO_Reglas	Si Frecuencia cerca de 5.75 y Duracion cerca de 92.64 entonces probablemente es TO
+VD	N=62,P(clase)=62.0000,Media_Freq=4.60,Std_Freq=1.72,Media_Dur=17.38,Std_Dur=6.23,Media_Energ=0.000508,Std_Energ=0.000613
+VD_Reglas	Si Frecuencia cerca de 4.60 y Duracion cerca de 17.38 entonces probablemente es VD
+VT	N=2991,P(clase)=2991.0000,Media_Freq=4.46,Std_Freq=1.79,Media_Dur=25.46,Std_Dur=20.51,Media_Energ=0.002562,Std_Energ=0.120334
+VT_Reglas	Si Frecuencia cerca de 4.46 y Duracion cerca de 25.46 entonces probablemente es VT

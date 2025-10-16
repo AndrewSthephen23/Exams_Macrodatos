@@ -1,0 +1,2 @@
+Modelo_Regresion	Ecuacion: ENERGIA = -0.015560 + 0.000608*FRECUENCIA + 0.000560*DURACION, N=3118
+Estadisticas	Media_Frecuencia=4.48, Media_Duracion=30.61, Media_Energia=0.004304
