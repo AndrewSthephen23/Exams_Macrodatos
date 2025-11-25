@@ -19,4 +19,10 @@ val consulta6 = dfDocentes.
                                  otherwise("Mixto Equilibrado")).
   select("cod_mod", "docentes_mujeres", "total_docentes", "ratio_mujeres", "categoria_genero")
 
-consulta6.show(5, false)
+// Mostramos los resultados por categoria
+println("\nMayoría Masculina")
+consulta6.filter(col("categoria_genero") === "Mayoría Masculina").show(20, false)
+println("\nMayoría Femenina")
+consulta6.filter(col("categoria_genero") === "Mayoría Femenina").show(20, false)
+println("\nMixto Equilibrado")
+consulta6.filter(col("categoria_genero") === "Mixto Equilibrado").show(20, false)
