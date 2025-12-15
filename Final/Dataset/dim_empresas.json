@@ -1,0 +1,122 @@
+[
+    {
+        "COD_EMPRESA":"EDPE",
+        "RAZON_SOCIAL":"ENEL DISTRIBUCIÓN PERÚ S.A.A.",
+        "GRUPO":"PRIVADAS"
+    },
+    {
+        "COD_EMPRESA":"ELC",
+        "RAZON_SOCIAL":"ELECTRO CENTRO",
+        "GRUPO":"PUBLICAS"
+    },
+    {
+        "COD_EMPRESA":"CHAV",
+        "RAZON_SOCIAL":"PROYECTO ESPECIAL CHAVIMOCHIC",
+        "GRUPO":"MUNICIPAL"
+    },
+    {
+        "COD_EMPRESA":"COEL",
+        "RAZON_SOCIAL":"CONSORCIO ELECTRICO DE VILLACURI SAC",
+        "GRUPO":"PRIVADAS"
+    },
+    {
+        "COD_EMPRESA":"ELDU",
+        "RAZON_SOCIAL":"ELECTRO DUNAS S.A.A",
+        "GRUPO":"PRIVADAS"
+    },
+    {
+        "COD_EMPRESA":"ELN",
+        "RAZON_SOCIAL":"ELECTRO NORTE S.A.",
+        "GRUPO":"PUBLICAS"
+    },
+    {
+        "COD_EMPRESA":"ELNM",
+        "RAZON_SOCIAL":"HIDRANDINA S. A.",
+        "GRUPO":"PUBLICAS"
+    },
+    {
+        "COD_EMPRESA":"ELNO",
+        "RAZON_SOCIAL":"ELECTRO NOROESTE S.A.",
+        "GRUPO":"PUBLICAS"
+    },
+    {
+        "COD_EMPRESA":"ELPU",
+        "RAZON_SOCIAL":"ELECTRO PUNO S.A.A.",
+        "GRUPO":"PUBLICAS"
+    },
+    {
+        "COD_EMPRESA":"ELS",
+        "RAZON_SOCIAL":"ELECTRO SUR S.A.",
+        "GRUPO":"PUBLICAS"
+    },
+    {
+        "COD_EMPRESA":"ELSE",
+        "RAZON_SOCIAL":"ELECTRO SUR ESTE S.A.",
+        "GRUPO":"PUBLICAS"
+    },
+    {
+        "COD_EMPRESA":"ELOR",
+        "RAZON_SOCIAL":"ELECTRO ORIENTE S.A.",
+        "GRUPO":"PUBLICAS"
+    },
+    {
+        "COD_EMPRESA":"LDS",
+        "RAZON_SOCIAL":"LUZ DEL SUR S.A.",
+        "GRUPO":"PRIVADAS"
+    },
+    {
+        "COD_EMPRESA":"SEAL",
+        "RAZON_SOCIAL":"SOCIEDAD ELECTRICA DEL SUR OESTE S.A.",
+        "GRUPO":"PUBLICAS"
+    },
+    {
+        "COD_EMPRESA":"SERS",
+        "RAZON_SOCIAL":"SERVICIOS ELECTRICOS RIOJA S.A.",
+        "GRUPO":"MUNICIPAL"
+    },
+    {
+        "COD_EMPRESA":"ELTO",
+        "RAZON_SOCIAL":"ELECTRO TOCACHE S.A.",
+        "GRUPO":"MUNICIPAL"
+    },
+    {
+        "COD_EMPRESA":"ELUC",
+        "RAZON_SOCIAL":"ELECTRO UCAYALI S.A.",
+        "GRUPO":"PUBLICAS"
+    },
+    {
+        "COD_EMPRESA":"EMSU",
+        "RAZON_SOCIAL":"EMPRESA MUNICIPAL DE SERVICIOS ELECTRICOS DE UTCUBAMBA S.A.",
+        "GRUPO":"MUNICIPAL"
+    },
+    {
+        "COD_EMPRESA":"ADIL",
+        "RAZON_SOCIAL":"ADINELSA",
+        "GRUPO":"PUBLICAS"
+    },
+    {
+        "COD_EMPRESA":"EMSE",
+        "RAZON_SOCIAL":"EMPRESA MUNICIPAL DE SERVICIOS ELECTRICOS DE PARAMONGA S.A.",
+        "GRUPO":"MUNICIPAL"
+    },
+    {
+        "COD_EMPRESA":"EDSA",
+        "RAZON_SOCIAL":"EMPRESA DE DISTRIBUCION Y COMERCIALIZACION DE ELECTRICIDAD SAN RAMON S.A.",
+        "GRUPO":"MUNICIPAL"
+    },
+    {
+        "COD_EMPRESA":"EGEP",
+        "RAZON_SOCIAL":"EMPRESA DE GENERACION ELECTRICA PUCARA II S.A.",
+        "GRUPO":"MUNICIPAL"
+    },
+    {
+        "COD_EMPRESA":"EPAN",
+        "RAZON_SOCIAL":"ELECTRO PANGOA S.A.",
+        "GRUPO":"MUNICIPAL"
+    },
+    {
+        "COD_EMPRESA":"PZPE",
+        "RAZON_SOCIAL":"PLUZ ENERGIA PERU",
+        "GRUPO":"PRIVADAS"
+    }
+]

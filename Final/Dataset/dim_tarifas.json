@@ -1,0 +1,307 @@
+[
+    {
+        "COD_TARIFA":22,
+        "ATARIFA":"1E-BT No Residencial",
+        "USO":"Comercial"
+    },
+    {
+        "COD_TARIFA":14,
+        "ATARIFA":"De 1 a 30 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":21,
+        "ATARIFA":"Exceso de 1000 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":15,
+        "ATARIFA":"De 31 a 100 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":18,
+        "ATARIFA":"De 301 a 500 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":16,
+        "ATARIFA":"De 101 a 150 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":8,
+        "ATARIFA":"1P2E-BT Presente en Punta",
+        "USO":"Comercial"
+    },
+    {
+        "COD_TARIFA":11,
+        "ATARIFA":"1P1E-BT Presente en Fuera de Punta",
+        "USO":"Industrial"
+    },
+    {
+        "COD_TARIFA":20,
+        "ATARIFA":"De 751 a 1000 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":17,
+        "ATARIFA":"De 151 a 300 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":19,
+        "ATARIFA":"De 501 a 750 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":43,
+        "ATARIFA":"De 31 a 100 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":45,
+        "ATARIFA":"De 151 a 300 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":42,
+        "ATARIFA":"De 1 a 30 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":4,
+        "ATARIFA":"1P2E-MT Presente en Fuera de Punta",
+        "USO":"Industrial"
+    },
+    {
+        "COD_TARIFA":5,
+        "ATARIFA":"1P1E-MT Presente en Punta",
+        "USO":"Comercial"
+    },
+    {
+        "COD_TARIFA":6,
+        "ATARIFA":"1P1E-MT Presente en Fuera de Punta",
+        "USO":"Industrial"
+    },
+    {
+        "COD_TARIFA":2,
+        "ATARIFA":"2P2E-MT",
+        "USO":"Industrial"
+    },
+    {
+        "COD_TARIFA":23,
+        "ATARIFA":"1P-BT Pension Fija",
+        "USO":"Comercial"
+    },
+    {
+        "COD_TARIFA":3,
+        "ATARIFA":"1P2E-MT Presente en Punta",
+        "USO":"Comercial"
+    },
+    {
+        "COD_TARIFA":7,
+        "ATARIFA":"2P2E-BT",
+        "USO":"Industrial"
+    },
+    {
+        "COD_TARIFA":58,
+        "ATARIFA":"Exceso de 1000 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":29,
+        "ATARIFA":"2E-BT MD hasta 20 kW en HP y 50 kW en HFP",
+        "USO":"Comercial"
+    },
+    {
+        "COD_TARIFA":9,
+        "ATARIFA":"1P2E-BT Presente en Fuera de Punta",
+        "USO":"Industrial"
+    },
+    {
+        "COD_TARIFA":53,
+        "ATARIFA":"BT5E (1E) - Residencial de 101 a 150 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":50,
+        "ATARIFA":"1E-BT No Residencial",
+        "USO":"Comercial"
+    },
+    {
+        "COD_TARIFA":46,
+        "ATARIFA":"De 301 a 500 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":44,
+        "ATARIFA":"BT5D (1E) - Residencial de 101 a 150 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":49,
+        "ATARIFA":"Exceso de 1000 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":48,
+        "ATARIFA":"De 751 a 1000 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":52,
+        "ATARIFA":"De 31 a 100 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":10,
+        "ATARIFA":"1P1E-BT Presente en Punta",
+        "USO":"Comercial"
+    },
+    {
+        "COD_TARIFA":47,
+        "ATARIFA":"De 501 a 750 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":31,
+        "ATARIFA":"1E-BT Iluminacion Especial",
+        "USO":"Alumbrado Publico"
+    },
+    {
+        "COD_TARIFA":28,
+        "ATARIFA":"2E-BT MD hasta 20 kW",
+        "USO":"Comercial"
+    },
+    {
+        "COD_TARIFA":26,
+        "ATARIFA":"Cliente Libre en MT",
+        "USO":"Industrial"
+    },
+    {
+        "COD_TARIFA":56,
+        "ATARIFA":"De 501 a 750 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":51,
+        "ATARIFA":"De 1 a 30 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":25,
+        "ATARIFA":"Cliente Libre en AT",
+        "USO":"Industrial"
+    },
+    {
+        "COD_TARIFA":59,
+        "ATARIFA":"1E-BT No Residencial",
+        "USO":"Comercial"
+    },
+    {
+        "COD_TARIFA":55,
+        "ATARIFA":"De 301 a 500 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":57,
+        "ATARIFA":"De 751 a 1000 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":64,
+        "ATARIFA":"BT8-320",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":54,
+        "ATARIFA":"De 151 a 300 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":60,
+        "ATARIFA":"BT8-070",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":1,
+        "ATARIFA":"2P2E-MT",
+        "USO":"Industrial"
+    },
+    {
+        "COD_TARIFA":13,
+        "ATARIFA":"2E-BT",
+        "USO":"Comercial"
+    },
+    {
+        "COD_TARIFA":27,
+        "ATARIFA":"Cliente Libre en BT",
+        "USO":"Industrial"
+    },
+    {
+        "COD_TARIFA":92,
+        "ATARIFA":"De 101 a 140 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":93,
+        "ATARIFA":"De 141 a 150 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":79,
+        "ATARIFA":"De 1 a 30 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":95,
+        "ATARIFA":"De 141 a 150 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":94,
+        "ATARIFA":"De 101 a 140 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":97,
+        "ATARIFA":"De 141 a 150 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":96,
+        "ATARIFA":"De 101 a 140 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":87,
+        "ATARIFA":"1E-BT No Residencial",
+        "USO":"Comercial"
+    },
+    {
+        "COD_TARIFA":61,
+        "ATARIFA":"BT8-100",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":62,
+        "ATARIFA":"BT8-160",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":80,
+        "ATARIFA":"De 31 a 100 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":84,
+        "ATARIFA":"De 501 a 750 kW.h",
+        "USO":"Residencial"
+    },
+    {
+        "COD_TARIFA":85,
+        "ATARIFA":"De 751 a 1000 kW.h",
+        "USO":"Residencial"
+    }
+]
