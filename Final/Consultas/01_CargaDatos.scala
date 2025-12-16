@@ -1,7 +1,7 @@
 // 1. Configuración de Logs
 spark.sparkContext.setLogLevel("ERROR")
 
-// IMPORTANTE: Mantenemos tu ruta hdfs://localhost:9000
+// Comando para saber la direccion de HDFS -> hdfs getconf -confKey fs.defaultFS
 val namenode = "hdfs://localhost:9000" 
 
 println(s">>> INICIANDO CARGA DESDE $namenode/input_final/...")
